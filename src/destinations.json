@@ -1,251 +1,287 @@
 [
   {
-    "country": "Netherlands",
+    "country": "🇳🇱 Netherlands",
+    "capital": "Amsterdam",
     "city": "Amsterdam",
     "airport": "Amsterdam Schiphol Airport",
     "code": "AMS",
     "coords": [52.3086, 4.7639]
   },
   {
-    "country": "Greece",
+    "country": "🇬🇷 Greece",
+    "capital": "Athens",
     "city": "Athens",
     "airport": "Athens International Airport",
     "code": "ATH",
     "coords": [37.9364, 23.9477]
   },
   {
-    "country": "Hungary",
+    "country": "🇭🇺 Hungary",
+    "capital": "Budapest",
     "city": "Budapest",
     "airport": "Budapest Ferenc Liszt International Airport",
     "code": "BUD",
     "coords": [47.437, 19.2611]
   },
   {
-    "country": "USA",
+    "country": "🇺🇸 USA",
+    "capital": "Washington, D.C.",
     "city": "Boston",
     "airport": "Logan International Airport",
     "code": "BOS",
     "coords": [42.3656, -71.0096]
   },
   {
-    "country": "Romania",
+    "country": "🇷🇴 Romania",
+    "capital": "Bucharest",
     "city": "Bucharest",
     "airport": "Henri Coandă International Airport",
     "code": "OTP",
     "coords": [44.5747, 26.1033]
   },
   {
-    "country": "Georgia",
+    "country": "🇬🇪 Georgia",
+    "capital": "Tbilisi",
     "city": "Batumi",
     "airport": "Batumi International Airport",
     "code": "BUS",
     "coords": [41.6103, 41.6167]
   },
   {
-    "country": "Serbia",
+    "country": "🇷🇸 Serbia",
+    "capital": "Belgrade",
     "city": "Belgrade",
     "airport": "Belgrade Nikola Tesla Airport",
     "code": "BEG",
     "coords": [44.8186, 20.3092]
   },
   {
-    "country": "Thailand",
+    "country": "🇹🇭 Thailand",
+    "capital": "Bangkok",
     "city": "Bangkok",
     "airport": "Suvarnabhumi Airport",
     "code": "BKK",
     "coords": [13.6704, 100.7504]
   },
   {
-    "country": "Germany",
+    "country": "🇩🇪 Germany",
+    "capital": "Berlin",
     "city": "Berlin",
     "airport": "Berlin Brandenburg Airport",
     "code": "BER",
     "coords": [52.3667, 13.5033]
   },
   {
-    "country": "Spain",
+    "country": "🇪🇸 Spain",
+    "capital": "Madrid",
     "city": "Barcelona",
     "airport": "Josep Tarradellas Barcelona-El Prat Airport",
     "code": "BCN",
     "coords": [41.2974, 2.0787]
   },
   {
-    "country": "Switzerland",
+    "country": "🇨🇭 Switzerland",
+    "capital": "Bern",
     "city": "Geneva",
     "airport": "Geneva Airport",
     "code": "GVA",
     "coords": [46.2381, 6.108]
   },
   {
-    "country": "United Arab Emirates",
+    "country": "🇦🇪 United Arab Emirates",
+    "capital": "Abu Dhabi",
     "city": "Dubai",
     "airport": "Dubai International Airport",
     "code": "DXB",
     "coords": [25.2769, 55.396]
   },
   {
-    "country": "Austria",
+    "country": "🇦🇹 Austria",
+    "capital": "Vienna",
     "city": "Vienna",
     "airport": "Vienna International Airport",
     "code": "VIE",
     "coords": [48.1103, 16.5697]
   },
   {
-    "country": "Italy",
+    "country": "🇮🇹 Italy",
+    "capital": "Rome",
     "city": "Venice",
     "airport": "Venice Marco Polo Airport",
     "code": "VCE",
     "coords": [45.505, 12.3517]
   },
   {
-    "country": "Poland",
+    "country": "🇵🇱 Poland",
+    "capital": "Warsaw",
     "city": "Warsaw",
     "airport": "Warsaw Chopin Airport",
     "code": "WAW",
     "coords": [52.1655, 20.9674]
   },
   {
-    "country": "Georgia",
+    "country": "🇬🇪 Georgia",
+    "capital": "Tbilisi",
     "city": "Tbilisi",
     "airport": "Tbilisi International Airport",
     "code": "TBS",
     "coords": [41.6055, 41.1584]
   },
   {
-    "country": "Japan",
+    "country": "🇯🇵 Japan",
+    "capital": "Tokyo",
     "city": "Tokyo",
     "airport": "Narita International Airport",
     "code": "NRT",
     "coords": [35.7769, 140.3911]
   },
   {
-    "country": "England",
+    "country": "🇬🇧 United Kingdom",
+    "capital": "London",
     "city": "London",
     "airport": "London Heathrow Airport",
     "code": "LHR",
     "coords": [51.47, -0.4543]
   },
   {
-    "country": "USA",
+    "country": "🇺🇸 USA",
+    "capital": "Washington, D.C.",
     "city": "Los Angeles",
     "airport": "Los Angeles International Airport",
     "code": "LAX",
     "coords": [33.9416, -118.4085]
   },
   {
-    "country": "Portugal",
+    "country": "🇵🇹 Portugal",
+    "capital": "Lisbon",
     "city": "Lisbon",
     "airport": "Lisbon Airport",
     "code": "LIS",
     "coords": [38.774, -9.1349]
   },
   {
-    "country": "Cyprus",
+    "country": "🇨🇾 Cyprus",
+    "capital": "Nicosia",
     "city": "Larnaca",
     "airport": "Larnaca International Airport",
     "code": "LCA",
     "coords": [34.8754, 33.6247]
   },
   {
-    "country": "Spain",
+    "country": "🇪🇸 Spain",
+    "capital": "Madrid",
     "city": "Madrid",
     "airport": "Adolfo Suárez Madrid–Barajas Airport",
     "code": "MAD",
     "coords": [40.4935, -3.5667]
   },
   {
-    "country": "USA",
+    "country": "🇺🇸 USA",
+    "capital": "Washington, D.C.",
     "city": "Miami",
     "airport": "Miami International Airport",
     "code": "MIA",
     "coords": [25.7932, -80.2903]
   },
   {
-    "country": "Italy",
+    "country": "🇮🇹 Italy",
+    "capital": "Rome",
     "city": "Milan",
     "airport": "Milan Malpensa Airport",
     "code": "MXP",
     "coords": [45.63, 8.7269]
   },
   {
-    "country": "Germany",
+    "country": "🇩🇪 Germany",
+    "capital": "Berlin",
     "city": "Munich",
     "airport": "Munich Airport",
     "code": "MUC",
     "coords": [48.3538, 11.786]
   },
   {
-    "country": "USA",
+    "country": "🇺🇸 USA",
+    "capital": "Washington, D.C.",
     "city": "New York",
     "airport": "John F. Kennedy International Airport",
     "code": "JFK",
     "coords": [40.6413, -73.7781]
   },
   {
-    "country": "USA",
+    "country": "🇺🇸 USA",
+    "capital": "Washington, D.C.",
     "city": "Newark",
     "airport": "Newark Liberty International Airport",
     "code": "EWR",
     "coords": [40.6895, -74.1745]
   },
   {
-    "country": "Bulgaria",
+    "country": "🇧🇬 Bulgaria",
+    "capital": "Sofia",
     "city": "Sofia",
     "airport": "Sofia International Airport",
     "code": "SOF",
     "coords": [42.6953, 23.4034]
   },
   {
-    "country": "Thailand",
+    "country": "🇹🇭 Thailand",
+    "capital": "Bangkok",
     "city": "Phuket",
     "airport": "Phuket International Airport",
     "code": "HKT",
     "coords": [8.1132, 98.3165]
   },
   {
-    "country": "Czech Republic",
+    "country": "🇨🇿 Czech Republic",
+    "capital": "Prague",
     "city": "Prague",
     "airport": "Václav Havel Airport Prague",
     "code": "PRG",
     "coords": [50.1, 14.26]
   },
   {
-    "country": "France",
+    "country": "🇫🇷 France",
+    "capital": "Paris",
     "city": "Paris",
     "airport": "Charles de Gaulle Airport",
     "code": "CDG",
     "coords": [49.0097, 2.5477]
   },
   {
-    "country": "Germany",
+    "country": "🇩🇪 Germany",
+    "capital": "Berlin",
     "city": "Frankfurt",
     "airport": "Frankfurt Airport",
     "code": "FRA",
     "coords": [50.0379, 8.5622]
   },
   {
-    "country": "Switzerland",
+    "country": "🇨🇭 Switzerland",
+    "capital": "Bern",
     "city": "Zurich",
     "airport": "Zurich Airport",
     "code": "ZRH",
     "coords": [47.4647, 8.5492]
   },
   {
-    "country": "Moldova",
+    "country": "🇲🇩 Moldova",
+    "capital": "Chisinau",
     "city": "Chisinau",
     "airport": "Chisinau International Airport",
     "code": "RMO",
     "coords": [46.9273, 28.93]
   },
   {
-    "country": "Poland",
+    "country": "🇵🇱 Poland",
+    "capital": "Warsaw",
     "city": "Krakow",
     "airport": "John Paul II International Airport",
     "code": "KRK",
     "coords": [50.077, 19.7842]
   },
   {
-    "country": "Italy",
+    "country": "🇮🇹 Italy",
+    "capital": "Rome",
     "city": "Rome",
     "airport": "Fiumicino Airport",
     "code": "FCO",

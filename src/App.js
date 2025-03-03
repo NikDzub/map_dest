@@ -26,19 +26,18 @@ const App = () => {
   return (
     <MapContainer
       center={primaryLocation}
-      zoom={3}
+      zoom={5}
       style={{ width: '100%', height: '100vh' }}
     >
       {/* Light mode tile layer */}
       <TileLayer
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+        url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png"
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       />
 
-      {/* Primary Location: Tel Aviv */}
-      <Marker position={primaryLocation} icon={greenIcon}>
+      {/* <Marker position={primaryLocation} icon={greenIcon}>
         <Popup>Primary Location: Tel Aviv Ben Gurion Airport</Popup>
-      </Marker>
+      </Marker> */}
 
       {/* Airport Markers */}
       {destinations.map((airport, index) => (
@@ -46,8 +45,8 @@ const App = () => {
           <AirportMarker airport={airport} />
           <Polyline
             positions={[primaryLocation, airport.coords]}
-            color="black"
-            weight={1}
+            color="grey"
+            weight={0.8}
             opacity={0.4}
           />
         </React.Fragment>
