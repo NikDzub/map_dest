@@ -1,290 +1,370 @@
 [
   {
-    "country": "🇳🇱 Netherlands",
-    "capital": "Amsterdam",
-    "city": "Amsterdam",
-    "airport": "Amsterdam Schiphol Airport",
-    "code": "AMS",
-    "coords": [52.3086, 4.7639]
-  },
-  {
-    "country": "🇬🇷 Greece",
-    "capital": "Athens",
-    "city": "Athens",
-    "airport": "Athens International Airport",
-    "code": "ATH",
-    "coords": [37.9364, 23.9477]
-  },
-  {
-    "country": "🇭🇺 Hungary",
-    "capital": "Budapest",
-    "city": "Budapest",
-    "airport": "Budapest Ferenc Liszt International Airport",
-    "code": "BUD",
-    "coords": [47.437, 19.2611]
-  },
-  {
-    "country": "🇺🇸 USA",
-    "capital": "Washington, D.C.",
-    "city": "Boston",
-    "airport": "Logan International Airport",
-    "code": "BOS",
-    "coords": [42.3656, -71.0096]
-  },
-  {
-    "country": "🇷🇴 Romania",
-    "capital": "Bucharest",
-    "city": "Bucharest",
-    "airport": "Henri Coandă International Airport",
-    "code": "OTP",
-    "coords": [44.5747, 26.1033]
-  },
-  {
-    "country": "🇬🇪 Georgia",
-    "capital": "Tbilisi",
-    "city": "Batumi",
-    "airport": "Batumi International Airport",
-    "code": "BUS",
-    "coords": [41.6103, 41.6167]
-  },
-  {
-    "country": "🇷🇸 Serbia",
-    "capital": "Belgrade",
-    "city": "Belgrade",
-    "airport": "Belgrade Nikola Tesla Airport",
-    "code": "BEG",
-    "coords": [44.8186, 20.3092]
-  },
-  {
-    "country": "🇹🇭 Thailand",
-    "capital": "Bangkok",
-    "city": "Bangkok",
-    "airport": "Suvarnabhumi Airport",
-    "code": "BKK",
-    "coords": [13.6704, 100.7504]
-  },
-  {
-    "country": "🇩🇪 Germany",
-    "capital": "Berlin",
-    "city": "Berlin",
-    "airport": "Berlin Brandenburg Airport",
-    "code": "BER",
-    "coords": [52.3667, 13.5033]
-  },
-  {
-    "country": "🇪🇸 Spain",
-    "capital": "Madrid",
-    "city": "Barcelona",
-    "airport": "Josep Tarradellas Barcelona-El Prat Airport",
-    "code": "BCN",
-    "coords": [41.2974, 2.0787]
-  },
-  {
-    "country": "🇨🇭 Switzerland",
-    "capital": "Bern",
-    "city": "Geneva",
-    "airport": "Geneva Airport",
-    "code": "GVA",
-    "coords": [46.2381, 6.108]
-  },
-  {
-    "country": "🇦🇪 United Arab Emirates",
-    "capital": "Abu Dhabi",
-    "city": "Dubai",
-    "airport": "Dubai International Airport",
-    "code": "DXB",
-    "coords": [25.2769, 55.396]
-  },
-  {
-    "country": "🇦🇹 Austria",
-    "capital": "Vienna",
-    "city": "Vienna",
-    "airport": "Vienna International Airport",
-    "code": "VIE",
-    "coords": [48.1103, 16.5697]
-  },
-  {
-    "country": "🇮🇹 Italy",
-    "capital": "Rome",
-    "city": "Venice",
-    "airport": "Venice Marco Polo Airport",
-    "code": "VCE",
-    "coords": [45.505, 12.3517]
-  },
-  {
-    "country": "🇵🇱 Poland",
-    "capital": "Warsaw",
-    "city": "Warsaw",
-    "airport": "Warsaw Chopin Airport",
-    "code": "WAW",
-    "coords": [52.1655, 20.9674]
-  },
-  {
-    "country": "🇬🇪 Georgia",
-    "capital": "Tbilisi",
-    "city": "Tbilisi",
-    "airport": "Tbilisi International Airport",
-    "code": "TBS",
-    "coords": [41.6055, 41.1584]
-  },
-  {
-    "country": "🇯🇵 Japan",
-    "capital": "Tokyo",
-    "city": "Tokyo",
-    "airport": "Narita International Airport",
-    "code": "NRT",
-    "coords": [35.7769, 140.3911]
-  },
-  {
-    "country": "🇬🇧 United Kingdom",
-    "capital": "London",
-    "city": "London",
-    "airport": "London Heathrow Airport",
-    "code": "LHR",
-    "coords": [51.47, -0.4543]
-  },
-  {
-    "country": "🇺🇸 USA",
-    "capital": "Washington, D.C.",
-    "city": "Los Angeles",
-    "airport": "Los Angeles International Airport",
-    "code": "LAX",
-    "coords": [33.9416, -118.4085]
-  },
-  {
-    "country": "🇵🇹 Portugal",
-    "capital": "Lisbon",
-    "city": "Lisbon",
-    "airport": "Lisbon Airport",
-    "code": "LIS",
-    "coords": [38.774, -9.1349]
-  },
-  {
-    "country": "🇨🇾 Cyprus",
-    "capital": "Nicosia",
-    "city": "Larnaca",
-    "airport": "Larnaca International Airport",
-    "code": "LCA",
-    "coords": [34.8754, 33.6247]
+    "country": "🇫🇷 France",
+    "capital": "Paris",
+    "city": "Paris",
+    "airport": "Charles de Gaulle Airport",
+    "airport_code": "CDG",
+    "coords": [49.0097, 2.5478]
   },
   {
     "country": "🇪🇸 Spain",
     "capital": "Madrid",
     "city": "Madrid",
     "airport": "Adolfo Suárez Madrid–Barajas Airport",
-    "code": "MAD",
-    "coords": [40.4935, -3.5667]
+    "airport_code": "MAD",
+    "coords": [40.4719, -3.5617]
   },
   {
-    "country": "🇺🇸 USA",
-    "capital": "Washington, D.C.",
-    "city": "Miami",
-    "airport": "Miami International Airport",
-    "code": "MIA",
-    "coords": [25.7932, -80.2903]
+    "country": "🇪🇸 Spain",
+    "capital": "Madrid",
+    "city": "Barcelona",
+    "airport": "Josep Tarradellas Barcelona–El Prat Airport",
+    "airport_code": "BCN",
+    "coords": [41.2974, 2.0833]
   },
   {
-    "country": "🇮🇹 Italy",
-    "capital": "Rome",
-    "city": "Milan",
-    "airport": "Milan Malpensa Airport",
-    "code": "MXP",
-    "coords": [45.63, 8.7269]
+    "country": "🇬🇧 United Kingdom",
+    "capital": "London",
+    "city": "London",
+    "airport": "Heathrow Airport",
+    "airport_code": "LHR",
+    "coords": [51.47, -0.4543]
   },
   {
-    "country": "🇩🇪 Germany",
-    "capital": "Berlin",
-    "city": "Munich",
-    "airport": "Munich Airport",
-    "code": "MUC",
-    "coords": [48.3538, 11.786]
+    "country": "🇬🇧 United Kingdom",
+    "capital": "London",
+    "city": "London",
+    "airport": "London Luton Airport",
+    "airport_code": "LTN",
+    "coords": [51.8747, -0.3683]
   },
   {
-    "country": "🇺🇸 USA",
-    "capital": "Washington, D.C.",
-    "city": "New York",
-    "airport": "John F. Kennedy International Airport",
-    "code": "JFK",
-    "coords": [40.6413, -73.7781]
-  },
-  {
-    "country": "🇺🇸 USA",
-    "capital": "Washington, D.C.",
-    "city": "Newark",
-    "airport": "Newark Liberty International Airport",
-    "code": "EWR",
-    "coords": [40.6895, -74.1745]
-  },
-  {
-    "country": "🇧🇬 Bulgaria",
-    "capital": "Sofia",
-    "city": "Sofia",
-    "airport": "Sofia International Airport",
-    "code": "SOF",
-    "coords": [42.6953, 23.4034]
-  },
-  {
-    "country": "🇹🇭 Thailand",
-    "capital": "Bangkok",
-    "city": "Phuket",
-    "airport": "Phuket International Airport",
-    "code": "HKT",
-    "coords": [8.1132, 98.3165]
-  },
-  {
-    "country": "🇨🇿 Czech Republic",
-    "capital": "Prague",
-    "city": "Prague",
-    "airport": "Václav Havel Airport Prague",
-    "code": "PRG",
-    "coords": [50.1, 14.26]
-  },
-  {
-    "country": "🇫🇷 France",
-    "capital": "Paris",
-    "city": "Paris",
-    "airport": "Charles de Gaulle Airport",
-    "code": "CDG",
-    "coords": [49.0097, 2.5477]
-  },
-  {
-    "country": "🇩🇪 Germany",
-    "capital": "Berlin",
-    "city": "Frankfurt",
-    "airport": "Frankfurt Airport",
-    "code": "FRA",
-    "coords": [50.0379, 8.5622]
+    "country": "🇳🇱 Netherlands",
+    "capital": "Amsterdam",
+    "city": "Amsterdam",
+    "airport": "Amsterdam Airport Schiphol",
+    "airport_code": "AMS",
+    "coords": [52.3105, 4.7683]
   },
   {
     "country": "🇨🇭 Switzerland",
     "capital": "Bern",
     "city": "Zurich",
     "airport": "Zurich Airport",
-    "code": "ZRH",
-    "coords": [47.4647, 8.5492]
+    "airport_code": "ZRH",
+    "coords": [47.45, 8.561]
   },
   {
-    "country": "🇲🇩 Moldova",
-    "capital": "Chisinau",
-    "city": "Chisinau",
-    "airport": "Chisinau International Airport",
-    "code": "RMO",
-    "coords": [46.9273, 28.93]
+    "country": "🇨🇭 Switzerland",
+    "capital": "Bern",
+    "city": "Geneva",
+    "airport": "Geneva Airport",
+    "airport_code": "GVA",
+    "coords": [46.2381, 6.1085]
   },
   {
-    "country": "🇵🇱 Poland",
-    "capital": "Warsaw",
-    "city": "Krakow",
-    "airport": "John Paul II International Airport",
-    "code": "KRK",
-    "coords": [50.077, 19.7842]
+    "country": "🇨🇿 Czech Republic",
+    "capital": "Prague",
+    "city": "Prague",
+    "airport": "Václav Havel Airport Prague",
+    "airport_code": "PRG",
+    "coords": [50.1008, 14.26]
+  },
+  {
+    "country": "🇫🇷 France",
+    "capital": "Paris",
+    "city": "Nice",
+    "airport": "Nice Côte d'Azur Airport",
+    "airport_code": "NCE",
+    "coords": [43.6655, 7.216]
+  },
+  {
+    "country": "🇫🇷 France",
+    "capital": "Paris",
+    "city": "Marseille",
+    "airport": "Marseille Provence Airport",
+    "airport_code": "MRS",
+    "coords": [43.4408, 5.2218]
+  },
+  {
+    "country": "🇵🇹 Portugal",
+    "capital": "Lisbon",
+    "city": "Lisbon",
+    "airport": "Humberto Delgado Airport",
+    "airport_code": "LIS",
+    "coords": [38.7747, -9.1349]
+  },
+  {
+    "country": "🇵🇹 Portugal",
+    "capital": "Lisbon",
+    "city": "Porto",
+    "airport": "Francisco Sá Carneiro Airport",
+    "airport_code": "OPO",
+    "coords": [41.248, -8.6817]
+  },
+  {
+    "country": "🇷🇴 Romania",
+    "capital": "Bucharest",
+    "city": "Bucharest",
+    "airport": "Henri Coandă International Airport",
+    "airport_code": "OTP",
+    "coords": [44.571, 26.085]
+  },
+  {
+    "country": "🇦🇹 Austria",
+    "capital": "Vienna",
+    "city": "Vienna",
+    "airport": "Vienna International Airport",
+    "airport_code": "VIE",
+    "coords": [48.1103, 16.5697]
+  },
+  {
+    "country": "🇬🇪 Georgia",
+    "capital": "Tbilisi",
+    "city": "Tbilisi",
+    "airport": "Tbilisi International Airport",
+    "airport_code": "TBS",
+    "coords": [41.6696, 44.9541]
+  },
+  {
+    "country": "🇩🇪 Germany",
+    "capital": "Berlin",
+    "city": "Frankfurt",
+    "airport": "Frankfurt Airport",
+    "airport_code": "FRA",
+    "coords": [50.0379, 8.5622]
+  },
+  {
+    "country": "🇩🇪 Germany",
+    "capital": "Berlin",
+    "city": "Berlin",
+    "airport": "Berlin Brandenburg Airport",
+    "airport_code": "BER",
+    "coords": [52.3667, 13.5033]
+  },
+  {
+    "country": "🇩🇪 Germany",
+    "capital": "Berlin",
+    "city": "Munich",
+    "airport": "Munich Airport",
+    "airport_code": "MUC",
+    "coords": [48.3538, 11.7861]
+  },
+  {
+    "country": "🇮🇹 Italy",
+    "capital": "Rome",
+    "city": "Venice",
+    "airport": "Venice Marco Polo Airport",
+    "airport_code": "VCE",
+    "coords": [45.5053, 12.351]
+  },
+  {
+    "country": "🇮🇹 Italy",
+    "capital": "Rome",
+    "city": "Milan",
+    "airport": "Malpensa Airport",
+    "airport_code": "MXP",
+    "coords": [45.6303, 8.7265]
   },
   {
     "country": "🇮🇹 Italy",
     "capital": "Rome",
     "city": "Rome",
-    "airport": "Fiumicino Airport",
-    "code": "FCO",
-    "coords": [41.8003, 12.2388]
+    "airport": "Leonardo da Vinci International Airport",
+    "airport_code": "FCO",
+    "coords": [41.8003, 12.2389]
+  },
+  {
+    "country": "🇮🇪 Ireland",
+    "capital": "Dublin",
+    "city": "Dublin",
+    "airport": "Dublin Airport",
+    "airport_code": "DUB",
+    "coords": [53.421, -6.2701]
+  },
+  {
+    "country": "🇲🇪 Montenegro",
+    "capital": "Podgorica",
+    "city": "Podgorica",
+    "airport": "Podgorica Airport",
+    "airport_code": "TGD",
+    "coords": [42.3594, 19.2514]
+  },
+  {
+    "country": "🇷🇺 Russia",
+    "capital": "Moscow",
+    "city": "Moscow",
+    "airport": "Sheremetyevo International Airport",
+    "airport_code": "DME",
+    "coords": [55.4064, 37.9028]
+  },
+  {
+    "country": "🇲🇩 Moldova",
+    "capital": "Chișinău",
+    "city": "Chișinău",
+    "airport": "Chișinău International Airport",
+    "airport_code": "RMO",
+    "coords": [46.9272, 28.9383]
+  },
+  {
+    "country": "🇭🇺 Hungary",
+    "capital": "Budapest",
+    "city": "Budapest",
+    "airport": "Budapest Ferenc Liszt International Airport",
+    "airport_code": "BUD",
+    "coords": [47.4333, 19.2614]
+  },
+  {
+    "country": "🇧🇬 Bulgaria",
+    "capital": "Sofia",
+    "city": "Sofia",
+    "airport": "Sofia Airport",
+    "airport_code": "SOF",
+    "coords": [42.6977, 23.3205]
+  },
+  {
+    "country": "🇬🇷 Greece",
+    "capital": "Athens",
+    "city": "Athens",
+    "airport": "Eleftherios Venizelos International Airport",
+    "airport_code": "ATH",
+    "coords": [37.9364, 23.9447]
+  },
+  {
+    "country": "🇨🇾 Cyprus",
+    "capital": "Nicosia",
+    "city": "Larnaca",
+    "airport": "Larnaca International Airport",
+    "airport_code": "LCA",
+    "coords": [34.875, 33.6247]
+  },
+  {
+    "country": "🇨🇾 Cyprus",
+    "capital": "Nicosia",
+    "city": "Paphos",
+    "airport": "Paphos International Airport",
+    "airport_code": "PFO",
+    "coords": [34.7183, 32.495]
+  },
+  {
+    "country": "🇦🇪 United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "city": "Dubai",
+    "airport": "Dubai International Airport",
+    "airport_code": "DXB",
+    "coords": [25.276987, 55.296249]
+  },
+  {
+    "country": "🇹🇭 Thailand",
+    "capital": "Bangkok",
+    "city": "Bangkok",
+    "airport": "Suvarnabhumi Airport",
+    "airport_code": "BKK",
+    "coords": [13.6896, 100.75]
+  },
+  {
+    "country": "🇹🇭 Thailand",
+    "capital": "Bangkok",
+    "city": "Phuket",
+    "airport": "Phuket International Airport",
+    "airport_code": "HKT",
+    "coords": [8.1135, 98.316]
+  },
+  {
+    "country": "🇭🇰 Hong Kong",
+    "capital": "Hong Kong",
+    "city": "Hong Kong",
+    "airport": "Hong Kong International Airport",
+    "airport_code": "HKG",
+    "coords": [22.308, 113.914]
+  },
+  {
+    "country": "🇯🇵 Japan",
+    "capital": "Tokyo",
+    "city": "Tokyo",
+    "airport": "Narita International Airport",
+    "airport_code": "NRT",
+    "coords": [35.7655, 140.385]
+  },
+  {
+    "country": "🇮🇳 India",
+    "capital": "New Delhi",
+    "city": "Mumbai",
+    "airport": "Chhatrapati Shivaji Maharaj International Airport",
+    "airport_code": "BOM",
+    "coords": [19.0886, 72.8679]
+  },
+  {
+    "country": "🇮🇳 India",
+    "capital": "New Delhi",
+    "city": "New Delhi",
+    "airport": "Indira Gandhi International Airport",
+    "airport_code": "DEL",
+    "coords": [28.5562, 77.1]
+  },
+  {
+    "country": "🇨🇳 China",
+    "capital": "Beijing",
+    "city": "Beijing",
+    "airport": "Beijing Capital International Airport",
+    "airport_code": "PEK",
+    "coords": [40.079, 116.603]
+  },
+  {
+    "country": "🇿🇦 South Africa",
+    "capital": "Pretoria",
+    "city": "Johannesburg",
+    "airport": "O. R. Tambo International Airport",
+    "airport_code": "JNB",
+    "coords": [-26.1392, 28.246]
+  },
+  {
+    "country": "🇺🇸 United States",
+    "capital": "Washington D.C.",
+    "city": "New York",
+    "airport": "John F. Kennedy International Airport",
+    "airport_code": "JFK",
+    "coords": [40.6413, -73.7781]
+  },
+  {
+    "country": "🇺🇸 United States",
+    "capital": "Washington D.C.",
+    "city": "Newark",
+    "airport": "Newark Liberty International Airport",
+    "airport_code": "EWR",
+    "coords": [40.6895, -74.1745]
+  },
+  {
+    "country": "🇺🇸 United States",
+    "capital": "Washington D.C.",
+    "city": "Los Angeles",
+    "airport": "Los Angeles International Airport",
+    "airport_code": "LAX",
+    "coords": [33.9416, -118.4085]
+  },
+  {
+    "country": "🇺🇸 United States",
+    "capital": "Washington D.C.",
+    "city": "Boston",
+    "airport": "Logan International Airport",
+    "airport_code": "BOS",
+    "coords": [42.3656, -71.0096]
+  },
+  {
+    "country": "🇺🇸 United States",
+    "capital": "Washington D.C.",
+    "city": "Miami",
+    "airport": "Miami International Airport",
+    "airport_code": "MIA",
+    "coords": [25.7957, -80.287]
+  },
+  {
+    "country": "🇺🇸 United States",
+    "capital": "Washington D.C.",
+    "city": "Fort Lauderdale",
+    "airport": "Fort Lauderdale-Hollywood International Airport",
+    "airport_code": "FLL",
+    "coords": [26.0726, -80.1527]
   }
 ]

@@ -6,7 +6,7 @@ import L from 'leaflet';
 const blueIcon = new L.Icon({
   iconUrl:
     'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-black.png',
-  iconSize: [15, 25],
+  iconSize: [13, 21],
   iconAnchor: [7, 25],
   popupAnchor: [1, -20],
 });
@@ -16,14 +16,13 @@ const AirportMarker = ({ airport }) => {
     <Marker position={airport.coords} icon={blueIcon}>
       <Popup>
         <strong>
-          {airport.country} {airport.flag} {/* Display country flag emoji */}
+          {airport.city} {airport.country}
         </strong>
+        <br />
+        <strong>({airport.airport_code})</strong> {airport.airport}
         <br />
         <em>Capital: {airport.capital}</em>
         <br />
-        <strong>{airport.city}</strong>
-        <br />
-        {airport.airport} ({airport.code})
       </Popup>
     </Marker>
   );

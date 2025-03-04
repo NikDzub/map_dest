@@ -1,0 +1,783 @@
+[
+  {
+    "name": "נמל התעופה הבינלאומי אלבוקרקי",
+    "iataCode": "ABQ",
+    "city": {
+      "name": "אלבוקרקי"
+    },
+    "country": {
+      "name": "ארצות הברית"
+    },
+    "locationLabel": "ABQ, אלבוקרקי, ארצות הברית"
+  },
+  {
+    "name": "נמל התעופה אמסטרדם - סכיפהול",
+    "iataCode": "AMS",
+    "city": {
+      "name": "אמסטרדם"
+    },
+    "country": {
+      "name": "הולנד"
+    },
+    "locationLabel": "AMS, אמסטרדם, הולנד"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי  אלפתריוס וניזלוס אתונה",
+    "iataCode": "ATH",
+    "city": {
+      "name": "אתונה"
+    },
+    "country": {
+      "name": "יוון"
+    },
+    "locationLabel": "ATH, אתונה, יוון"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי הרטספילד- ג'קסון אטלנטה",
+    "iataCode": "ATL",
+    "city": {
+      "name": "אטלנטה"
+    },
+    "country": {
+      "name": "ארצות הברית"
+    },
+    "locationLabel": "ATL, אטלנטה, ארצות הברית"
+  },
+  {
+    "name": "נמל התעופה ברצלונה - אל פראט",
+    "iataCode": "BCN",
+    "city": {
+      "name": "ברצלונה"
+    },
+    "country": {
+      "name": "ספרד"
+    },
+    "locationLabel": "BCN, ברצלונה, ספרד"
+  },
+  {
+    "name": "נמל התעופה ניקולה טסלה בלגרד",
+    "iataCode": "BEG",
+    "city": {
+      "name": "בלגרד"
+    },
+    "country": {
+      "name": "סרביה"
+    },
+    "locationLabel": "BEG, בלגרד, סרביה"
+  },
+  {
+    "name": "ברלין (כל שדות התעופה)",
+    "iataCode": "BER",
+    "city": {
+      "name": "ברלין"
+    },
+    "country": {
+      "name": "גרמניה"
+    },
+    "locationLabel": "BER, ברלין, גרמניה"
+  },
+  {
+    "name": "נמל התעופה בנגקוק סוברנהומי",
+    "iataCode": "BKK",
+    "city": {
+      "name": "בנגקוק"
+    },
+    "country": {
+      "name": "תאילנד"
+    },
+    "locationLabel": "BKK, בנגקוק, תאילנד"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי  בוסטון לוגן",
+    "iataCode": "BOS",
+    "city": {
+      "name": "בוסטון"
+    },
+    "country": {
+      "name": "ארצות הברית"
+    },
+    "locationLabel": "BOS, בוסטון, ארצות הברית"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי פרנץ ליסט בודפשט",
+    "iataCode": "BUD",
+    "city": {
+      "name": "בודפשט"
+    },
+    "country": {
+      "name": "הונגריה"
+    },
+    "locationLabel": "BUD, בודפשט, הונגריה"
+  },
+  {
+    "name": "בוקרשט (כל שדות התעופה)",
+    "iataCode": "BUH",
+    "city": {
+      "name": "בוקרשט"
+    },
+    "country": {
+      "name": "רומניה"
+    },
+    "locationLabel": "BUH, בוקרשט, רומניה"
+  },
+  {
+    "name": "Batumi International Airport",
+    "iataCode": "BUS",
+    "city": {
+      "name": "בטומי"
+    },
+    "country": {
+      "name": "גאורגיה"
+    },
+    "locationLabel": "BUS, בטומי, גאורגיה"
+  },
+  {
+    "name": "נמל התעופה שארל דה גול פריז",
+    "iataCode": "CDG",
+    "city": {
+      "name": "פריז"
+    },
+    "country": {
+      "name": "צרפת"
+    },
+    "locationLabel": "CDG, פריז, צרפת"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי בנדרנאיקה",
+    "iataCode": "CMB",
+    "city": {
+      "name": "קולומבו"
+    },
+    "country": {
+      "name": "סרי לנקה"
+    },
+    "locationLabel": "CMB, קולומבו, סרי לנקה"
+  },
+  {
+    "name": "נמל התעופה דומודאדובו",
+    "iataCode": "DME",
+    "city": {
+      "name": "מוסקבה"
+    },
+    "country": {
+      "name": "רוסיה"
+    },
+    "locationLabel": "DME, מוסקבה, רוסיה"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי דובאי",
+    "iataCode": "DXB",
+    "city": {
+      "name": "דובאי"
+    },
+    "country": {
+      "name": "איחוד האמירויות הערביות"
+    },
+    "locationLabel": "DXB, דובאי, איחוד האמירויות הערביות"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי קפאלוניה",
+    "iataCode": "EFL",
+    "city": {
+      "name": "קפלוניה"
+    },
+    "country": {
+      "name": "יוון"
+    },
+    "locationLabel": "EFL, קפלוניה, יוון"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי ניוארק ליברטי",
+    "iataCode": "EWR",
+    "city": {
+      "name": "ניו יורק"
+    },
+    "country": {
+      "name": "ארצות הברית"
+    },
+    "locationLabel": "EWR, ניו יורק, ארצות הברית"
+  },
+  {
+    "name": "נמל התעופה פיומיצ'ינו",
+    "iataCode": "FCO",
+    "city": {
+      "name": "רומא"
+    },
+    "country": {
+      "name": "איטליה"
+    },
+    "locationLabel": "FCO, רומא, איטליה"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי פורט לודרדייל - הוליווד",
+    "iataCode": "FLL",
+    "city": {
+      "name": "פורט לודרדייל, אזור מיאמי"
+    },
+    "country": {
+      "name": "ארצות הברית"
+    },
+    "locationLabel": "FLL, פורט לודרדייל, אזור מיאמי, ארצות הברית"
+  },
+  {
+    "name": "נמל התעופה פרנקפורט",
+    "iataCode": "FRA",
+    "city": {
+      "name": "פרנקפורט"
+    },
+    "country": {
+      "name": "גרמניה"
+    },
+    "locationLabel": "FRA, פרנקפורט, גרמניה"
+  },
+  {
+    "name": "נמל התעופה ז'נבה",
+    "iataCode": "GVA",
+    "city": {
+      "name": "ז'נבה"
+    },
+    "country": {
+      "name": "שוויץ"
+    },
+    "locationLabel": "GVA, ז'נבה, שוויץ"
+  },
+  {
+    "name": "נמל התעופה של המבורג",
+    "iataCode": "HAM",
+    "city": {
+      "name": "המבורג"
+    },
+    "country": {
+      "name": "גרמניה"
+    },
+    "locationLabel": "HAM, המבורג, גרמניה"
+  },
+  {
+    "name": "נמל התעופה הרקליון",
+    "iataCode": "HER",
+    "city": {
+      "name": "הרקליון (כרתים)"
+    },
+    "country": {
+      "name": "יוון"
+    },
+    "locationLabel": "HER, הרקליון (כרתים), יוון"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי פוקט",
+    "iataCode": "HKT",
+    "city": {
+      "name": "פוקט"
+    },
+    "country": {
+      "name": "תאילנד"
+    },
+    "locationLabel": "HKT, פוקט, תאילנד"
+  },
+  {
+    "name": "נמל התעופה אינסברוק",
+    "iataCode": "INN",
+    "city": {
+      "name": "אינסברוק"
+    },
+    "country": {
+      "name": "אוסטריה"
+    },
+    "locationLabel": "INN, אינסברוק, אוסטריה"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי ג'ון פ. קנדי",
+    "iataCode": "JFK",
+    "city": {
+      "name": "ניו יורק"
+    },
+    "country": {
+      "name": "ארצות הברית"
+    },
+    "locationLabel": "JFK, ניו יורק, ארצות הברית"
+  },
+  {
+    "name": "נמל התעופה מיקונוס",
+    "iataCode": "JMK",
+    "city": {
+      "name": "מיקונוס"
+    },
+    "country": {
+      "name": "יוון"
+    },
+    "locationLabel": "JMK, מיקונוס, יוון"
+  },
+  {
+    "name": "נמל התעופה סנטוריני",
+    "iataCode": "JTR",
+    "city": {
+      "name": "סנטוריני"
+    },
+    "country": {
+      "name": "יוון"
+    },
+    "locationLabel": "JTR, סנטוריני, יוון"
+  },
+  {
+    "name": "נמל התעופה קלמטה",
+    "iataCode": "KLX",
+    "city": {
+      "name": "קלמטה"
+    },
+    "country": {
+      "name": "יוון"
+    },
+    "locationLabel": "KLX, קלמטה, יוון"
+  },
+  {
+    "name": "נמל התעופה יוחנן פאולוס השני קרקוב",
+    "iataCode": "KRK",
+    "city": {
+      "name": "קרקוב"
+    },
+    "country": {
+      "name": "פולין"
+    },
+    "locationLabel": "KRK, קרקוב, פולין"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי לוס אנג'לס",
+    "iataCode": "LAX",
+    "city": {
+      "name": "לוס אנג׳לס"
+    },
+    "country": {
+      "name": "ארצות הברית"
+    },
+    "locationLabel": "LAX, לוס אנג׳לס, ארצות הברית"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי בלרנקה",
+    "iataCode": "LCA",
+    "city": {
+      "name": "לרנקה"
+    },
+    "country": {
+      "name": "קפריסין"
+    },
+    "locationLabel": "LCA, לרנקה, קפריסין"
+  },
+  {
+    "name": "נמל התעופה הית'רו",
+    "iataCode": "LHR",
+    "city": {
+      "name": "לונדון"
+    },
+    "country": {
+      "name": "הממלכה המאוחדת"
+    },
+    "locationLabel": "LHR, לונדון, הממלכה המאוחדת"
+  },
+  {
+    "name": "נמל התעופה ליסבון",
+    "iataCode": "LIS",
+    "city": {
+      "name": "ליסבון"
+    },
+    "country": {
+      "name": "פורטוגל"
+    },
+    "locationLabel": "LIS, ליסבון, פורטוגל"
+  },
+  {
+    "name": "לונדון (כל נמלי התעופה)",
+    "iataCode": "LON",
+    "city": {
+      "name": "לונדון"
+    },
+    "country": {
+      "name": "הממלכה המאוחדת"
+    },
+    "locationLabel": "LON, לונדון, הממלכה המאוחדת"
+  },
+  {
+    "name": "נמל התעופה לונדון לוטון",
+    "iataCode": "LTN",
+    "city": {
+      "name": "לונדון"
+    },
+    "country": {
+      "name": "הממלכה המאוחדת"
+    },
+    "locationLabel": "LTN, לונדון, הממלכה המאוחדת"
+  },
+  {
+    "name": "נמל התעופה סנט-אכזופרי",
+    "iataCode": "LYS",
+    "city": {
+      "name": "ליון"
+    },
+    "country": {
+      "name": "צרפת"
+    },
+    "locationLabel": "LYS, ליון, צרפת"
+  },
+  {
+    "name": "נמל התעופה מדריד - בראחס",
+    "iataCode": "MAD",
+    "city": {
+      "name": "מדריד"
+    },
+    "country": {
+      "name": "ספרד"
+    },
+    "locationLabel": "MAD, מדריד, ספרד"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי מיאמי",
+    "iataCode": "MIA",
+    "city": {
+      "name": "מיאמי"
+    },
+    "country": {
+      "name": "ארצות הברית"
+    },
+    "locationLabel": "MIA, מיאמי, ארצות הברית"
+  },
+  {
+    "name": "מילאנו (כל נמלי התעופה)",
+    "iataCode": "MIL",
+    "city": {
+      "name": "מילאנו"
+    },
+    "country": {
+      "name": "איטליה"
+    },
+    "locationLabel": "MIL, מילאנו, איטליה"
+  },
+  {
+    "name": "מוסקבה (כל נמלי התעופה)",
+    "iataCode": "MOW",
+    "city": {
+      "name": "מוסקבה"
+    },
+    "country": {
+      "name": "רוסיה"
+    },
+    "locationLabel": "MOW, מוסקבה, רוסיה"
+  },
+  {
+    "name": "נמל התעופה מרסיי פרובנס",
+    "iataCode": "MRS",
+    "city": {
+      "name": "מרסיי"
+    },
+    "country": {
+      "name": "צרפת"
+    },
+    "locationLabel": "MRS, מרסיי, צרפת"
+  },
+  {
+    "name": "נמל התעופה מינכן",
+    "iataCode": "MUC",
+    "city": {
+      "name": "מינכן"
+    },
+    "country": {
+      "name": "גרמניה"
+    },
+    "locationLabel": "MUC, מינכן, גרמניה"
+  },
+  {
+    "name": "נמל התעופה מילאנו - מלפנזה",
+    "iataCode": "MXP",
+    "city": {
+      "name": "מילאנו"
+    },
+    "country": {
+      "name": "איטליה"
+    },
+    "locationLabel": "MXP, מילאנו, איטליה"
+  },
+  {
+    "name": "נמל התעופה ניס קוט ד'אזור",
+    "iataCode": "NCE",
+    "city": {
+      "name": "ניס"
+    },
+    "country": {
+      "name": "צרפת"
+    },
+    "locationLabel": "NCE, ניס, צרפת"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי נריטה",
+    "iataCode": "NRT",
+    "city": {
+      "name": "טוקיו"
+    },
+    "country": {
+      "name": "יפן"
+    },
+    "locationLabel": "NRT, טוקיו, יפן"
+  },
+  {
+    "name": "ניו יורק (כל נמלי התעופה)",
+    "iataCode": "NYC",
+    "city": {
+      "name": "ניו יורק"
+    },
+    "country": {
+      "name": "ארצות הברית"
+    },
+    "locationLabel": "NYC, ניו יורק, ארצות הברית"
+  },
+  {
+    "name": "נמל התעופה פורטו",
+    "iataCode": "OPO",
+    "city": {
+      "name": "פורטו"
+    },
+    "country": {
+      "name": "פורטוגל"
+    },
+    "locationLabel": "OPO, פורטו, פורטוגל"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי אוטופני",
+    "iataCode": "OTP",
+    "city": {
+      "name": "בוקרשט"
+    },
+    "country": {
+      "name": "רומניה"
+    },
+    "locationLabel": "OTP, בוקרשט, רומניה"
+  },
+  {
+    "name": "פריז (כל נמלי התעופה)",
+    "iataCode": "PAR",
+    "city": {
+      "name": "פריז"
+    },
+    "country": {
+      "name": "צרפת"
+    },
+    "locationLabel": "PAR, פריז, צרפת"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי פאפוס",
+    "iataCode": "PFO",
+    "city": {
+      "name": "פאפוס"
+    },
+    "country": {
+      "name": "קפריסין"
+    },
+    "locationLabel": "PFO, פאפוס, קפריסין"
+  },
+  {
+    "name": "נמל התעופה ואצלב האוול פראג",
+    "iataCode": "PRG",
+    "city": {
+      "name": "פראג"
+    },
+    "country": {
+      "name": "צ'כיה"
+    },
+    "locationLabel": "PRG, פראג, צ'כיה"
+  },
+  {
+    "name": "נמל התעופה אקטיון",
+    "iataCode": "PVK",
+    "city": {
+      "name": "לפקדה"
+    },
+    "country": {
+      "name": "יוון"
+    },
+    "locationLabel": "PVK, לפקדה, יוון"
+  },
+  {
+    "name": "נמל התעופה דיאגורס רודוס",
+    "iataCode": "RHO",
+    "city": {
+      "name": "רודוס"
+    },
+    "country": {
+      "name": "יוון"
+    },
+    "locationLabel": "RHO, רודוס, יוון"
+  },
+  {
+    "name": "Chisinau International Airport",
+    "iataCode": "RMO",
+    "city": {
+      "name": "קישינב"
+    },
+    "country": {
+      "name": "מולדובה"
+    },
+    "locationLabel": "RMO, קישינב, מולדובה"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי אל סלבדור",
+    "iataCode": "SAL",
+    "city": {
+      "name": "סן סלבדור"
+    },
+    "country": {
+      "name": "אל סלבדור"
+    },
+    "locationLabel": "SAL, סן סלבדור, אל סלבדור"
+  },
+  {
+    "name": "נמל התעופה צ'אנגי",
+    "iataCode": "SIN",
+    "city": {
+      "name": "סינגפור"
+    },
+    "country": {
+      "name": "הרפובליקה של סינגפור"
+    },
+    "locationLabel": "SIN, סינגפור, הרפובליקה של סינגפור"
+  },
+  {
+    "name": "נמל התעופה מקדוניה סלוניקי",
+    "iataCode": "SKG",
+    "city": {
+      "name": "סלוניקי"
+    },
+    "country": {
+      "name": "יוון"
+    },
+    "locationLabel": "SKG, סלוניקי, יוון"
+  },
+  {
+    "name": "נמל התעופה סופיה",
+    "iataCode": "SOF",
+    "city": {
+      "name": "סופיה"
+    },
+    "country": {
+      "name": "בולגריה"
+    },
+    "locationLabel": "SOF, סופיה, בולגריה"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי טביליסי",
+    "iataCode": "TBS",
+    "city": {
+      "name": "טביליסי"
+    },
+    "country": {
+      "name": "גאורגיה"
+    },
+    "locationLabel": "TBS, טביליסי, גאורגיה"
+  },
+  {
+    "name": "נמל התעופה פודגוריצה",
+    "iataCode": "TGD",
+    "city": {
+      "name": "פודגוריצה"
+    },
+    "country": {
+      "name": "מונטנגרו"
+    },
+    "locationLabel": "TGD, פודגוריצה, מונטנגרו"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי האם תרזה טירנה",
+    "iataCode": "TIA",
+    "city": {
+      "name": "טירנה"
+    },
+    "country": {
+      "name": "אלבניה"
+    },
+    "locationLabel": "TIA, טירנה, אלבניה"
+  },
+  {
+    "name": "נמל התעופה טיבט",
+    "iataCode": "TIV",
+    "city": {
+      "name": "טיווט"
+    },
+    "country": {
+      "name": "מונטנגרו"
+    },
+    "locationLabel": "TIV, טיווט, מונטנגרו"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי בן-גוריון",
+    "iataCode": "TLV",
+    "city": {
+      "name": "תל אביב"
+    },
+    "country": {
+      "name": "ישראל"
+    },
+    "locationLabel": "TLV, תל אביב, ישראל"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי טאויואן",
+    "iataCode": "TPE",
+    "city": {
+      "name": "טאיפיי"
+    },
+    "country": {
+      "name": "טאיוואן"
+    },
+    "locationLabel": "TPE, טאיפיי, טאיוואן"
+  },
+  {
+    "name": "טוקיו (כל שדות התעופה)",
+    "iataCode": "TYO",
+    "city": {
+      "name": "טוקיו"
+    },
+    "country": {
+      "name": "יפן"
+    },
+    "locationLabel": "TYO, טוקיו, יפן"
+  },
+  {
+    "name": "נמל התעופה מרקו פולו ונציה",
+    "iataCode": "VCE",
+    "city": {
+      "name": "ונציה"
+    },
+    "country": {
+      "name": "איטליה"
+    },
+    "locationLabel": "VCE, ונציה, איטליה"
+  },
+  {
+    "name": "נמל התעופה הבינלאומי וינה",
+    "iataCode": "VIE",
+    "city": {
+      "name": "וינה"
+    },
+    "country": {
+      "name": "אוסטריה"
+    },
+    "locationLabel": "VIE, וינה, אוסטריה"
+  },
+  {
+    "name": "נמל התעופה שופן ורשה",
+    "iataCode": "WAW",
+    "city": {
+      "name": "ורשה"
+    },
+    "country": {
+      "name": "פולין"
+    },
+    "locationLabel": "WAW, ורשה, פולין"
+  },
+  {
+    "name": "נמל התעופה ציריך",
+    "iataCode": "ZRH",
+    "city": {
+      "name": "ציריך"
+    },
+    "country": {
+      "name": "שוויץ"
+    },
+    "locationLabel": "ZRH, ציריך, שוויץ"
+  }
+]
